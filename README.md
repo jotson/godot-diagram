@@ -7,7 +7,7 @@ This is a prototype I wrote over the weekend and probably won't work or do what 
 # Requirements
 
 * Scenes are `.tscn` files
-* Scene written in GDScript
+* Scene code written in GDScript
 
 # Usage
 
