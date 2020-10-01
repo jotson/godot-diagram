@@ -15,7 +15,7 @@ This is a prototype I wrote over the weekend and probably won't work or do what 
 
 ```bash
 cd <game folder or game subfolder>
-go run diagram.go
+go run /path/to/godot-diagram/diagram.go
 ```
 
 A file `output.mmd` will be generated in the current directory. It is a Mermaid JS diagram file that you can paste here: https://mermaid-js.github.io/mermaid-live-editor/
