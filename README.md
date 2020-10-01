@@ -4,6 +4,8 @@ A program that makes mermaid class diagrams from Godot source code.
 
 This is a prototype I wrote over the weekend and probably won't work or do what you think it should do.
 
+![Example Mermaid diagram](https://raw.githubusercontent.com/jotson/godot-diagram/main/example.png)
+
 # Requirements
 
 * Scenes are `.tscn` files
